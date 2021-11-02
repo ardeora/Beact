@@ -1,0 +1,30 @@
+{
+  "name": "teact",
+  "version": "0.0.1",
+  "description": "React Clone",
+  "main": "src/index.ts",
+  "devDependencies": {
+    "@types/node": "^16.11.6",
+    "@types/webpack": "^5.28.0",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.4.4",
+    "webpack-cli": "^4.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardeora/Teact.git"
+  },
+  "keywords": [
+    "react-clone"
+  ],
+  "author": "Aryan Deora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ardeora/Teact/issues"
+  },
+  "homepage": "https://github.com/ardeora/Teact#readme"
+}
